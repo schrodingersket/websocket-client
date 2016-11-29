@@ -25,5 +25,6 @@ from ._core import *
 from ._exceptions import *
 from ._logging import *
 from ._socket import *
+from ._ssl_compat import *
 
 __version__ = "0.39.0"
